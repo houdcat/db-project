@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": 1,
+        "game_id": 1,
+        "rating": 5,
+        "comment": "JSON Import: Skvělá hra!"
+    },
+    {
+        "user_id": 2,
+        "game_id": 1,
+        "rating": 1,
+        "comment": "JSON Import: Nelíbilo se mi to."
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "genre_id": 1,
+        "title": "Elden Ring (JSON)",
+        "price": 59.99,
+        "desc": "Hardcore RPG from JSON import.",
+        "status": "Available"
+    },
+    {
+        "genre_id": 2,
+        "title": "Counter-Strike 2",
+        "price": 0.00,
+        "desc": "FPS shooter.",
+        "status": "Available"
+    }
+]

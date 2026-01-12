@@ -1,0 +1,4 @@
+Username,Email,IsAdmin
+csv_hrac,hrac@csv.cz,False
+csv_sef,sef@csv.cz,True
+pepa_z_depa,pepa@depo.cz,False

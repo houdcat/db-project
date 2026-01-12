@@ -1,0 +1,12 @@
+[
+    {
+        "username": "json_import_user",
+        "email": "json@import.com",
+        "is_admin": false
+    },
+    {
+        "username": "admin_z_jsonu",
+        "email": "admin@json.com",
+        "is_admin": true
+    }
+]
