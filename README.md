@@ -1,5 +1,3 @@
-Zde je opravený soubor README.md. Sekci 2. Konfigurace Aplikace jsem upravil tak, aby explicitně vyžadovala přihlášení jménem sa a heslem student.
-
 GameStore
 Tato aplikace slouží ke správě digitálního obchodu s hrami. Byla vytvořena jako školní projekt demonstrující práci s relační databází MSSQL, využití návrhového vzoru Repository (D1) a tvorbu desktopového GUI v Pythonu (Tkinter).
 
